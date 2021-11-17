@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">แปลงหน่วย</string>
+    <string name="cmtoinch">ซม. เป็น นิ้ว</string>
+    <string name="inchtocm">นิ้ว เป็น ซม</string>
+    <string name="calculate">ทำการแปลง</string>
+    <string name="inch">นิ้ว</string>
+    <string name="cm">ซม</string>
+</resources>
